@@ -2,11 +2,11 @@
   (at 0 0)
   (descr "Diode, P600, Vertical, Kathode up,")
   (tags "Diode, P600, vertical, Kathode up,")
-  (fp_text reference D (at 0 6.985) (layer F.SilkS)
-    (effects (font (size 1.524 1.016) (thickness 0.254)))
+  (fp_text reference Diode_P600_Vertical_KathodeUp (at 0 6.985) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Diode_P600_Vertical_KathodeUp (at 0.635 -6.985) (layer F.SilkS) hide
-    (effects (font (size 1.524 1.016) (thickness 0.254)))
+  (fp_text value VAL** (at 0.635 -6.985) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4.445 0) (end 5.207 0) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.175 0) (end 2.413 0) (layer F.SilkS) (width 0.15))

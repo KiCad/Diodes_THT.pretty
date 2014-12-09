@@ -1,14 +1,14 @@
 (module Diode_TO-247_Vertical (layer F.Cu) (tedit 53FC0EF2)
   (descr "TO-247, TO-218, TOP-3,  1=Anode,  2=Kathode, Vertical,")
   (tags "TO-247, TO-218, TOP-3, Anode, Kathode, Vertical,")
-  (fp_text reference D (at 0 -5.08) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Diode_TO-247_Vertical (at 0 -5.08) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Diode_TO-247_Vertical (at 0 5.08) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0 5.08) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user A (at 2.54 1.524) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.016 0) (end -3.556 0) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.016 0) (end 3.556 0) (layer F.SilkS) (width 0.15))
@@ -22,7 +22,7 @@
   (fp_line (start -8.128 2.794) (end 8.128 2.794) (layer F.SilkS) (width 0.15))
   (pad 2 thru_hole rect (at -5.588 0 90) (size 4.50088 2.49936) (drill 1.50114) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole oval (at 5.588 0 90) (size 4.50088 2.49936) (drill 1.50114) (layers *.Cu *.Mask F.SilkS))
-  (model discret/Diode-to247ac_vert.wrl
+  (model Diodes_ThroughHole/Diode_TO-247_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 4 4 4))
     (rotate (xyz 0 0 0))

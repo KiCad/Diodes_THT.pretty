@@ -2,11 +2,11 @@
   (at 0 0)
   (descr "TO-220, Diode, Dual, Common Cathode, Horizontal, Large Pads,")
   (tags "TO-220, Diode, Dual, Common Cathode, Horizontal, Large Pads,")
-  (fp_text reference D (at 0.254 -9.144) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Diode_TO-220_Dual_CommonCathode_Horizontal_LargePads (at 0.254 -9.144) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Diode_TO-220_Dual_CommonCathode_Horizontal_LargePads (at -1.016 8.128) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at -1.016 8.128) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0 -6.4008) (end 0 -4.20116) (layer F.SilkS) (width 0.15))
   (fp_line (start -2.19964 -6.4008) (end -2.99974 -6.4008) (layer F.SilkS) (width 0.15))
@@ -38,7 +38,7 @@
   (pad 1 thru_hole oval (at -2.54 0 90) (size 3.50012 1.69926) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 2.54 0 90) (size 3.50012 1.69926) (drill 1.00076) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at 0 -16.764 90) (size 3.79984 3.79984) (drill 3.79984) (layers *.Cu *.Mask F.SilkS))
-  (model Dioden_ThroughHole_Wings3d_RevC_0xSep2012/TO220-Horizontal_RevB_Faktor03937_03Sep2012.wrl
+  (model Diodes_ThroughHole/Diode_TO-220_Dual_CommonCathode_Horizontal_LargePads.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
