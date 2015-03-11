@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "TO-247, Diode, Dual, Common Cathode, Vertical,")
   (tags "TO-247, Diode, Dual, Common Cathode, Vertical,")
-  (fp_text reference Diode_TO-247_Dual_CommonCathode_Vertical (at 1.27 -5.08) (layer F.SilkS)
+  (fp_text reference REF** (at 1.27 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at -1.016 8.128) (layer F.SilkS) hide
+  (fp_text value Diode_TO-247_Dual_CommonCathode_Vertical (at -1.016 8.128) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 8.128 2.794) (end 8.128 -2.794) (layer F.SilkS) (width 0.15))
