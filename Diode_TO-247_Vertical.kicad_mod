@@ -1,6 +1,6 @@
 (module Diode_TO-247_Vertical (layer F.Cu) (tedit 53FC0EF2)
-  (descr "TO-247, TO-218, TOP-3,  1=Anode,  2=Kathode, Vertical,")
-  (tags "TO-247, TO-218, TOP-3, Anode, Kathode, Vertical,")
+  (descr "TO-247, TO-218, TOP-3,  1=Anode,  2=Cathode, Vertical,")
+  (tags "TO-247, TO-218, TOP-3, Anode, Cathode, Vertical,")
   (fp_text reference REF** (at 0 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
