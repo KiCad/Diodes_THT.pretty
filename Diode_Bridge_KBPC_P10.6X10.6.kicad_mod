@@ -30,7 +30,7 @@
   (pad 2 thru_hole circle (at 5.08 5.08) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 5.08 -5.08) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at -5.08 -5.08) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
-  (model D:/KICADLIB_JBD.pretty/Diode_Bridge_KBPC_P10.6X10.6.wrl
+  (model Diodes_ThroughHole.3dshapes/Diode_Bridge_KBPC_P10.6X10.6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

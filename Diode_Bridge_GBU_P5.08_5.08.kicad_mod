@@ -1,8 +1,8 @@
-(module JBD-BRIDGE-GBU-4X200 (layer F.Cu) (tedit 559A1824)
+(module Diode_Bridge_GBU_P5.08 (layer F.Cu) (tedit 559A1824)
   (fp_text reference DB*** (at 0 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value "BRIDGE GBU-4X200" (at 0 6.35) (layer F.SilkS)
+  (fp_text value "Diode_Bridge_GBU_P5.08" (at 0 6.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user + (at 7.62 3.175) (layer F.SilkS)
@@ -26,7 +26,7 @@
   (pad 2 thru_hole circle (at -2.54 0) (size 2 2) (drill 1.27) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 2.54 0) (size 2 2) (drill 1.27) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 7.62 0) (size 2 2) (drill 1.27) (layers *.Cu *.Mask F.SilkS))
-  (model D:/KICADLIB/JBD/MODEL3D/JBD-BRIDGE-GBU-4X200.wrl
+  (model Diodes_ThroughHole.3dshapes/Diode_Bridge_GBU_P5.08.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
