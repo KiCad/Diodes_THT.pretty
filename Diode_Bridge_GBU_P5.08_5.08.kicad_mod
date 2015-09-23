@@ -1,16 +1,8 @@
-<<<<<<< HEAD
 (module Diode_Bridge_GBU_P5.08 (layer F.Cu) (tedit 559A1824)
   (fp_text reference DB*** (at 0 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value "Diode_Bridge_GBU_P5.08" (at 0 6.35) (layer F.SilkS)
-=======
-(module JBD-BRIDGE-GBU-4X200 (layer F.Cu) (tedit 559A1824)
-  (fp_text reference DB*** (at 0 -3.81) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value "BRIDGE GBU-4X200" (at 0 6.35) (layer F.SilkS)
->>>>>>> master
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user + (at 7.62 3.175) (layer F.SilkS)
