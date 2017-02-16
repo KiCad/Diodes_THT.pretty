@@ -24,7 +24,7 @@
   (fp_text user K (at -1.966371 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Diodes_ThroughHole.3dshapes/D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp.wrl
+  (model Diodes_THT.3dshapes/D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
